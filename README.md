@@ -5,7 +5,7 @@ Terraform code to create:
 * grafana
 docker containers.
 
-This code requires some `.tfvars` file with the following contect:
+This code requires some `.tfvars` file with the following content:
 
 ```
 ext_port = {
